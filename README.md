@@ -5,7 +5,7 @@ Kako bi uspješno instalirali predložak, potrebno je posjedovati Divi page buil
 
 ![1 (1)](https://user-images.githubusercontent.com/125771062/219902000-a338de00-c1bd-4121-ab92-374faed3e099.png)
 
-2. Zatim odabirete lijevu opciju - Build from scratch i stisnete gumb start building.
+2. Zatim odabirete lijevu opciju - "Build from scratch" i stisnete gumb "start building".
 
 ![2 (1)](https://user-images.githubusercontent.com/125771062/219902008-fcf2e14e-8184-493c-85ed-05a4f3eaa9db.png)
 
